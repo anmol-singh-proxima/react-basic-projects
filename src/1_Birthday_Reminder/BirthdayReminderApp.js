@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import List from './List';
-import data from "./Data";
+import data from "./data";
 import "./style.css";
 
 function BirthdayReminderApp() {

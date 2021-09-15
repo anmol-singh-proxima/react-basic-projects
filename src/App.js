@@ -1,11 +1,13 @@
 // import BirthdayReminderApp from "./1_Birthday_Reminder/BirthdayReminderApp";
-import ToursRemoveTourApp from "./2_Tours_Remove_Tour/ToursRemoveTourApp";
+import ToursApp from "./2_Tours/ToursApp";
+import ReviewsApp from "./3_Reviews/ReviewsApp";
 
 function App() {
   return (
     <>
     {/* <BirthdayReminderApp /> */}
-    <ToursRemoveTourApp />
+    {/* <ToursApp /> */}
+    <ReviewsApp />
     </>
   );
 }

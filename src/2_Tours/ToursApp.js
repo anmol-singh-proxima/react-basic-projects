@@ -4,7 +4,7 @@ import Tours from './Tours';
 import "./style.css";
 const url = "https://course-api.com/react-tours-project"
 ;
-function ToursRemoveTourApp() {
+function ToursApp() {
     const [loading, setLoading] = useState(true);
     const [tours, setTours] = useState([]);
 
@@ -48,4 +48,4 @@ function ToursRemoveTourApp() {
     </main>
 }
 
-export default ToursRemoveTourApp;
+export default ToursApp;
