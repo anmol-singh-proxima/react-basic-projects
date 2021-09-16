@@ -26,3 +26,8 @@ In this App, I learnt how to make an Accordion in React.
 ## Menu App
 This app displays the different menu items from the data stored locally. Then, based on the category of menu items, a user can filter out the menu items.
 In this App, I learnt how to take unique values of categories from the list of menu items, and how to filter out the menu items based on the categories.
+
+
+## Tabs - Show Jobs App
+This app shows the details regarding the experience required in a particular job. A user can see the details by clicking on the given Tabs. According to the Tabs, the details are displayed on the screen.
+In this App, I learnt how to display one item in a list and hide the others by using Tabs.

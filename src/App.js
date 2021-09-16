@@ -1,8 +1,9 @@
-// import BirthdayReminderApp from "./1_Birthday_Reminder/BirthdayReminderApp";
+import BirthdayReminderApp from "./1_Birthday_Reminder/BirthdayReminderApp";
 import ToursApp from "./2_Tours/ToursApp";
-import ReviewsApp from "./3_Reviews/ReviewsApp";
+import ReviewsApp from "./3_Carousel_Reviews/ReviewsApp";
 import AccordionQuestionAnswerApp from "./4_Accordion_Question_Answer/AccordionQuestionAnswerApp";
 import MenuApp from "./5_Menu/MenuApp";
+import TabsApp from "./6_Tabs_Show_Jobs/TabsApp";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
     {/* <ToursApp /> */}
     {/* <ReviewsApp /> */}
     {/* <AccordionQuestionAnswerApp /> */}
-    <MenuApp />
+    {/* <MenuApp /> */}
+    <TabsApp />
     </>
   );
 }
