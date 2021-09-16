@@ -22,3 +22,7 @@ In this App, I learnt how to create a Carousel in React.
 This is an app where a user can show and hide an answer for a question using a button.
 In this App, I learnt how to make an Accordion in React.
 
+
+## Menu App
+This app displays the different menu items from the data stored locally. Then, based on the category of menu items, a user can filter out the menu items.
+In this App, I learnt how to take unique values of categories from the list of menu items, and how to filter out the menu items based on the categories.
