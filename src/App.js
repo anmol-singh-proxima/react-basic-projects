@@ -4,6 +4,7 @@ import ReviewsApp from "./3_Carousel_Reviews/ReviewsApp";
 import AccordionQuestionAnswerApp from "./4_Accordion_Question_Answer/AccordionQuestionAnswerApp";
 import MenuApp from "./5_Menu/MenuApp";
 import TabsApp from "./6_Tabs_Show_Jobs/TabsApp";
+import SliderApp from "./7_Slider/SliderApp";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
     {/* <ReviewsApp /> */}
     {/* <AccordionQuestionAnswerApp /> */}
     {/* <MenuApp /> */}
-    <TabsApp />
+    {/* <TabsApp /> */}
+    <SliderApp />
     </>
   );
 }
