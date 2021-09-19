@@ -5,6 +5,7 @@ import AccordionQuestionAnswerApp from "./4_Accordion_Question_Answer/AccordionQ
 import MenuApp from "./5_Menu/MenuApp";
 import TabsApp from "./6_Tabs_Show_Jobs/TabsApp";
 import SliderApp from "./7_Slider/SliderApp";
+import LoremIpsumApp from "./8_Lorem_Ipsum/LoremIpsumApp";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
     {/* <AccordionQuestionAnswerApp /> */}
     {/* <MenuApp /> */}
     {/* <TabsApp /> */}
-    <SliderApp />
+    {/* <SliderApp /> */}
+    <LoremIpsumApp />
     </>
   );
 }

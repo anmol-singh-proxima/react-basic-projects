@@ -36,3 +36,7 @@ In this App, I learnt how to display one item in a list and hide the others by u
 ## Slider App
 This app displays the Slider where information of one person out of many people gets showed up on the screen and they move in forward direction in automatic way at the interval of 3s, and even a user can move them in both forward and backward directions.
 In this App, I learnt how to use 'useEffect' hook in a proper way, and how to make a Slider.
+
+
+## Lorem Ipsum App
+In this app, based on the user's input, number of paragraphs of Lorem Ipsum text are displayed on the screen.
